@@ -1,3 +1,5 @@
+# Author: Higo de Araujo Oliveira 
+#--------------------------------------
 import numpy as np
 import matplotlib.pyplot as plt
 from thermo.gpumd.data import load_kappa,load_shc
